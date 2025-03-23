@@ -20,38 +20,40 @@ st.markdown(
 # Sidebar for dataset upload
 st.sidebar.header("📂 Upload Datasets")
 
-dataset1 = st.sidebar.file_uploader("FlightDelayPrediction1.csv", type=["csv"])
-dataset2 = st.sidebar.file_uploader("FlightDelayPrediction2.csv", type=["csv"])
+dataset1 = st.sidebar.file_uploader("Upload Flight Delay Dataset", type=["csv"])
 
-# Load dataset and extract airline names
-airline_options = ["Select a dataset first"]
+# Initialize airline options
+airline_options = ["Select an Airline"]
+
+# Load dataset
 if dataset1:
-    df1 = pd.read_csv(dataset1)
-    if "Airline" in df1.columns:  # Check if the "Airline" column exists
-        airline_options = sorted(df1["Airline"].dropna().unique())  # Get unique airline names
-    else:
-        st.sidebar.error("Dataset must contain an 'Airline' column!")
+    try:
+        df1 = pd.read_csv(dataset1)
+        st.subheader("📊 Flight Data Preview")
+        st.dataframe(df1.head())  # Show preview of dataset
 
-# Display dataset previews
-if dataset1:
-    st.subheader("📊 Flight Data Preview")
-    st.dataframe(df1.head())
+        # Check if "Airline" column exists
+        if "Airline" in df1.columns:
+            airline_options = sorted(df1["Airline"].dropna().unique())  # Extract unique airlines
+        else:
+            st.sidebar.error("Dataset must contain an 'Airline' column!")
 
-if dataset2:
-    st.subheader("📊 Additional Data Preview")
-    df2 = pd.read_csv(dataset2)
-    st.dataframe(df2.head())
+    except Exception as e:
+        st.sidebar.error(f"Error loading dataset: {e}")
 
 # User input fields for prediction
 st.header("🛫 Enter Flight Details")
 
-# Airline selection from dataset
+# Airline selection
 airline = st.selectbox("✈️ Select Airline", airline_options)
 
+# Departure time input
 departure_time = st.slider("⏰ Departure Time (24h format)", 0, 23, 12)
+
+# Weather condition input
 weather = st.selectbox("🌤️ Weather Condition", ["Clear", "Rainy", "Stormy", "Snowy"])
 
-# Placeholder prediction logic
+# Prediction function
 def predict_delay(airline, departure_time, weather):
     if weather in ["Stormy", "Snowy"]:
         return "High chance of delay ❌"
@@ -62,9 +64,11 @@ def predict_delay(airline, departure_time, weather):
 
 # Prediction button
 if st.button("🔍 Predict Delay"):
-    if airline == "Select a dataset first":
-        st.warning("Please upload a dataset with an 'Airline' column first!")
+    if airline == "Select an Airline":
+        st.warning("Please upload a dataset and select an airline!")
     else:
         prediction = predict_delay(airline, departure_time, weather)
         st.subheader(f"Prediction: {prediction}")
 
+# Debugging output (optional)
+st.sidebar.write("Loaded Airlines:", airline_options)
