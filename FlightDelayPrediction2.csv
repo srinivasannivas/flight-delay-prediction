@@ -1,0 +1,1001 @@
+Airline,Departure Time,Weather,Delay
+United Airlines,19,Rainy,On Time
+Delta Airlines,1,Stormy,On Time
+Delta Airlines,17,Clear,Delayed
+American Airlines,5,Snowy,On Time
+Southwest Airlines,22,Rainy,On Time
+Delta Airlines,1,Snowy,On Time
+United Airlines,16,Rainy,Delayed
+Southwest Airlines,7,Snowy,On Time
+United Airlines,10,Rainy,Delayed
+Alaska Airlines,22,Stormy,Delayed
+JetBlue,16,Stormy,On Time
+JetBlue,10,Stormy,On Time
+American Airlines,0,Clear,Delayed
+Alaska Airlines,13,Rainy,On Time
+Delta Airlines,4,Clear,Delayed
+United Airlines,0,Snowy,Delayed
+Southwest Airlines,5,Stormy,Delayed
+United Airlines,13,Rainy,On Time
+Southwest Airlines,8,Rainy,Delayed
+JetBlue,2,Snowy,On Time
+Southwest Airlines,19,Stormy,Delayed
+JetBlue,22,Snowy,Delayed
+JetBlue,6,Snowy,Delayed
+Alaska Airlines,19,Snowy,On Time
+United Airlines,0,Clear,On Time
+Delta Airlines,17,Stormy,On Time
+Southwest Airlines,5,Stormy,On Time
+Southwest Airlines,6,Rainy,Delayed
+American Airlines,10,Clear,Delayed
+Alaska Airlines,12,Rainy,On Time
+Alaska Airlines,21,Rainy,On Time
+Alaska Airlines,4,Clear,Delayed
+United Airlines,13,Clear,Delayed
+Alaska Airlines,9,Stormy,On Time
+Alaska Airlines,10,Stormy,Delayed
+Southwest Airlines,0,Clear,Delayed
+Delta Airlines,1,Rainy,Delayed
+JetBlue,21,Rainy,On Time
+American Airlines,21,Rainy,On Time
+Delta Airlines,12,Stormy,On Time
+JetBlue,10,Rainy,On Time
+American Airlines,15,Snowy,Delayed
+Delta Airlines,8,Stormy,On Time
+JetBlue,10,Rainy,Delayed
+Delta Airlines,10,Snowy,Delayed
+American Airlines,5,Clear,On Time
+Delta Airlines,13,Clear,Delayed
+United Airlines,20,Rainy,Delayed
+Delta Airlines,12,Clear,On Time
+Alaska Airlines,21,Clear,On Time
+Alaska Airlines,13,Clear,Delayed
+Southwest Airlines,13,Rainy,Delayed
+Southwest Airlines,19,Rainy,On Time
+United Airlines,20,Stormy,Delayed
+Alaska Airlines,5,Stormy,On Time
+JetBlue,13,Stormy,Delayed
+United Airlines,9,Snowy,On Time
+United Airlines,17,Snowy,Delayed
+JetBlue,6,Clear,Delayed
+Southwest Airlines,16,Rainy,On Time
+United Airlines,20,Rainy,On Time
+American Airlines,13,Snowy,Delayed
+United Airlines,0,Rainy,Delayed
+Southwest Airlines,7,Clear,On Time
+American Airlines,1,Clear,Delayed
+American Airlines,3,Stormy,On Time
+American Airlines,12,Snowy,On Time
+Alaska Airlines,21,Snowy,Delayed
+Alaska Airlines,12,Stormy,On Time
+Alaska Airlines,1,Stormy,Delayed
+Alaska Airlines,9,Rainy,Delayed
+JetBlue,3,Rainy,On Time
+Delta Airlines,23,Rainy,Delayed
+Southwest Airlines,22,Rainy,On Time
+United Airlines,23,Stormy,Delayed
+American Airlines,14,Snowy,Delayed
+JetBlue,13,Snowy,Delayed
+Delta Airlines,16,Stormy,On Time
+United Airlines,9,Snowy,Delayed
+Alaska Airlines,4,Rainy,Delayed
+Alaska Airlines,16,Snowy,Delayed
+United Airlines,0,Rainy,Delayed
+American Airlines,2,Snowy,Delayed
+JetBlue,5,Rainy,Delayed
+Delta Airlines,4,Snowy,On Time
+Southwest Airlines,12,Clear,Delayed
+United Airlines,7,Clear,On Time
+United Airlines,23,Stormy,Delayed
+American Airlines,3,Rainy,Delayed
+Alaska Airlines,4,Stormy,On Time
+Southwest Airlines,3,Rainy,Delayed
+American Airlines,3,Clear,Delayed
+United Airlines,6,Rainy,On Time
+Delta Airlines,13,Rainy,Delayed
+American Airlines,2,Stormy,Delayed
+Southwest Airlines,5,Stormy,Delayed
+Alaska Airlines,8,Snowy,Delayed
+Delta Airlines,23,Snowy,On Time
+JetBlue,21,Snowy,Delayed
+Alaska Airlines,13,Stormy,Delayed
+JetBlue,9,Rainy,Delayed
+JetBlue,19,Rainy,On Time
+American Airlines,9,Clear,Delayed
+JetBlue,15,Rainy,Delayed
+Alaska Airlines,14,Snowy,Delayed
+American Airlines,17,Clear,Delayed
+Southwest Airlines,3,Clear,Delayed
+Delta Airlines,10,Clear,Delayed
+Alaska Airlines,4,Rainy,Delayed
+United Airlines,6,Snowy,On Time
+Southwest Airlines,22,Stormy,Delayed
+Southwest Airlines,12,Stormy,Delayed
+Southwest Airlines,8,Rainy,Delayed
+JetBlue,19,Clear,Delayed
+JetBlue,2,Clear,On Time
+United Airlines,20,Stormy,On Time
+Delta Airlines,5,Clear,Delayed
+Delta Airlines,17,Clear,Delayed
+United Airlines,22,Snowy,Delayed
+American Airlines,16,Clear,On Time
+Delta Airlines,3,Stormy,On Time
+Southwest Airlines,21,Clear,On Time
+Delta Airlines,16,Snowy,On Time
+Delta Airlines,21,Rainy,On Time
+American Airlines,19,Clear,Delayed
+United Airlines,5,Snowy,On Time
+Alaska Airlines,15,Snowy,Delayed
+American Airlines,1,Snowy,On Time
+Southwest Airlines,8,Clear,On Time
+Alaska Airlines,15,Stormy,On Time
+Alaska Airlines,23,Clear,On Time
+American Airlines,4,Clear,On Time
+Southwest Airlines,11,Rainy,Delayed
+Southwest Airlines,18,Clear,Delayed
+Southwest Airlines,14,Rainy,Delayed
+Southwest Airlines,13,Snowy,On Time
+Delta Airlines,19,Stormy,On Time
+Alaska Airlines,13,Stormy,On Time
+American Airlines,18,Rainy,On Time
+American Airlines,22,Rainy,Delayed
+JetBlue,15,Stormy,Delayed
+Alaska Airlines,3,Stormy,Delayed
+Southwest Airlines,23,Snowy,On Time
+JetBlue,13,Clear,Delayed
+JetBlue,19,Snowy,On Time
+Delta Airlines,17,Clear,On Time
+United Airlines,14,Snowy,Delayed
+Delta Airlines,10,Clear,Delayed
+Delta Airlines,16,Clear,On Time
+Alaska Airlines,2,Rainy,Delayed
+United Airlines,11,Rainy,Delayed
+JetBlue,3,Snowy,Delayed
+Southwest Airlines,1,Rainy,On Time
+Southwest Airlines,15,Stormy,On Time
+United Airlines,5,Stormy,Delayed
+Southwest Airlines,2,Clear,Delayed
+United Airlines,2,Stormy,On Time
+United Airlines,16,Snowy,On Time
+Southwest Airlines,22,Rainy,On Time
+United Airlines,4,Clear,Delayed
+Alaska Airlines,9,Rainy,Delayed
+JetBlue,17,Stormy,Delayed
+American Airlines,13,Stormy,On Time
+Southwest Airlines,3,Stormy,Delayed
+JetBlue,14,Rainy,Delayed
+Delta Airlines,12,Stormy,Delayed
+Southwest Airlines,21,Rainy,On Time
+JetBlue,21,Rainy,Delayed
+Southwest Airlines,10,Stormy,Delayed
+American Airlines,16,Snowy,On Time
+United Airlines,18,Clear,Delayed
+American Airlines,23,Stormy,Delayed
+JetBlue,2,Rainy,Delayed
+United Airlines,4,Stormy,On Time
+United Airlines,15,Snowy,On Time
+Delta Airlines,11,Rainy,On Time
+United Airlines,23,Stormy,Delayed
+Alaska Airlines,11,Clear,On Time
+Southwest Airlines,21,Snowy,On Time
+Southwest Airlines,4,Clear,On Time
+Alaska Airlines,0,Stormy,Delayed
+Alaska Airlines,21,Snowy,Delayed
+American Airlines,20,Stormy,Delayed
+American Airlines,13,Rainy,On Time
+American Airlines,4,Clear,On Time
+Alaska Airlines,3,Clear,On Time
+Alaska Airlines,5,Snowy,Delayed
+Delta Airlines,21,Clear,Delayed
+United Airlines,5,Clear,Delayed
+Southwest Airlines,4,Stormy,Delayed
+United Airlines,8,Snowy,On Time
+American Airlines,7,Stormy,Delayed
+JetBlue,6,Clear,On Time
+United Airlines,8,Rainy,Delayed
+United Airlines,11,Snowy,Delayed
+United Airlines,7,Snowy,On Time
+American Airlines,10,Clear,On Time
+Delta Airlines,4,Rainy,On Time
+United Airlines,9,Snowy,On Time
+JetBlue,4,Rainy,On Time
+United Airlines,22,Stormy,On Time
+Alaska Airlines,23,Rainy,Delayed
+United Airlines,13,Clear,On Time
+Delta Airlines,20,Rainy,On Time
+JetBlue,12,Rainy,On Time
+JetBlue,17,Rainy,On Time
+JetBlue,8,Rainy,Delayed
+Delta Airlines,20,Rainy,Delayed
+JetBlue,20,Rainy,Delayed
+JetBlue,0,Stormy,Delayed
+Southwest Airlines,18,Stormy,Delayed
+United Airlines,17,Rainy,Delayed
+JetBlue,12,Clear,Delayed
+American Airlines,19,Rainy,Delayed
+Southwest Airlines,14,Stormy,Delayed
+United Airlines,23,Snowy,On Time
+Delta Airlines,7,Rainy,Delayed
+American Airlines,6,Stormy,On Time
+United Airlines,12,Rainy,On Time
+Southwest Airlines,14,Rainy,Delayed
+JetBlue,16,Snowy,Delayed
+JetBlue,6,Snowy,On Time
+Alaska Airlines,18,Rainy,Delayed
+JetBlue,8,Snowy,Delayed
+Delta Airlines,15,Stormy,Delayed
+United Airlines,7,Snowy,Delayed
+JetBlue,23,Stormy,Delayed
+Delta Airlines,15,Clear,Delayed
+Alaska Airlines,18,Stormy,Delayed
+Southwest Airlines,21,Clear,On Time
+United Airlines,16,Stormy,Delayed
+JetBlue,20,Snowy,On Time
+JetBlue,15,Clear,On Time
+Delta Airlines,14,Stormy,On Time
+United Airlines,15,Clear,On Time
+United Airlines,8,Stormy,On Time
+United Airlines,19,Rainy,On Time
+JetBlue,14,Snowy,On Time
+American Airlines,20,Rainy,Delayed
+JetBlue,18,Clear,On Time
+Delta Airlines,20,Snowy,Delayed
+United Airlines,2,Snowy,Delayed
+Alaska Airlines,15,Clear,Delayed
+Southwest Airlines,19,Rainy,Delayed
+Alaska Airlines,3,Snowy,Delayed
+American Airlines,18,Rainy,On Time
+Alaska Airlines,15,Snowy,On Time
+Delta Airlines,8,Rainy,Delayed
+Delta Airlines,18,Rainy,Delayed
+Delta Airlines,4,Rainy,On Time
+Alaska Airlines,2,Stormy,On Time
+Delta Airlines,20,Stormy,Delayed
+American Airlines,14,Stormy,On Time
+United Airlines,18,Stormy,Delayed
+American Airlines,11,Snowy,Delayed
+Southwest Airlines,20,Snowy,On Time
+American Airlines,2,Rainy,Delayed
+United Airlines,6,Clear,On Time
+United Airlines,19,Stormy,Delayed
+JetBlue,6,Snowy,Delayed
+American Airlines,20,Stormy,On Time
+United Airlines,2,Snowy,On Time
+Southwest Airlines,5,Clear,Delayed
+JetBlue,6,Rainy,On Time
+United Airlines,14,Snowy,On Time
+Southwest Airlines,4,Rainy,On Time
+Alaska Airlines,20,Snowy,Delayed
+Southwest Airlines,9,Snowy,Delayed
+United Airlines,0,Clear,On Time
+American Airlines,5,Snowy,On Time
+Alaska Airlines,10,Clear,Delayed
+Southwest Airlines,0,Stormy,Delayed
+JetBlue,3,Stormy,Delayed
+Delta Airlines,8,Stormy,On Time
+Southwest Airlines,4,Clear,On Time
+United Airlines,13,Snowy,Delayed
+American Airlines,18,Rainy,Delayed
+Delta Airlines,0,Rainy,Delayed
+Southwest Airlines,3,Clear,Delayed
+United Airlines,8,Snowy,Delayed
+American Airlines,1,Rainy,On Time
+JetBlue,18,Snowy,Delayed
+United Airlines,23,Snowy,On Time
+Alaska Airlines,10,Rainy,Delayed
+United Airlines,4,Clear,On Time
+Delta Airlines,19,Rainy,On Time
+Delta Airlines,2,Rainy,On Time
+Alaska Airlines,12,Stormy,Delayed
+JetBlue,21,Clear,Delayed
+JetBlue,14,Rainy,Delayed
+American Airlines,11,Rainy,On Time
+Southwest Airlines,13,Stormy,Delayed
+JetBlue,7,Snowy,Delayed
+Delta Airlines,18,Rainy,On Time
+JetBlue,21,Snowy,Delayed
+United Airlines,21,Snowy,On Time
+Alaska Airlines,14,Snowy,On Time
+United Airlines,18,Rainy,On Time
+JetBlue,9,Stormy,Delayed
+Alaska Airlines,21,Clear,Delayed
+Alaska Airlines,2,Stormy,On Time
+United Airlines,2,Stormy,Delayed
+JetBlue,14,Rainy,On Time
+Alaska Airlines,19,Stormy,Delayed
+Southwest Airlines,5,Snowy,Delayed
+JetBlue,20,Stormy,Delayed
+Southwest Airlines,17,Clear,Delayed
+American Airlines,3,Stormy,Delayed
+United Airlines,0,Clear,Delayed
+JetBlue,11,Clear,Delayed
+Delta Airlines,10,Clear,Delayed
+United Airlines,1,Snowy,Delayed
+United Airlines,23,Snowy,On Time
+JetBlue,23,Snowy,Delayed
+American Airlines,3,Stormy,On Time
+American Airlines,15,Rainy,Delayed
+American Airlines,15,Stormy,Delayed
+JetBlue,21,Snowy,On Time
+American Airlines,1,Snowy,On Time
+Southwest Airlines,7,Snowy,On Time
+Alaska Airlines,12,Rainy,On Time
+American Airlines,8,Clear,Delayed
+Southwest Airlines,18,Rainy,Delayed
+United Airlines,16,Snowy,On Time
+Delta Airlines,14,Snowy,On Time
+JetBlue,5,Stormy,On Time
+United Airlines,15,Snowy,Delayed
+Alaska Airlines,9,Stormy,Delayed
+Southwest Airlines,10,Snowy,On Time
+United Airlines,2,Stormy,On Time
+Southwest Airlines,9,Clear,Delayed
+JetBlue,7,Stormy,On Time
+Alaska Airlines,9,Rainy,On Time
+Southwest Airlines,10,Rainy,On Time
+United Airlines,0,Stormy,On Time
+JetBlue,18,Clear,On Time
+JetBlue,15,Rainy,Delayed
+JetBlue,9,Snowy,Delayed
+Southwest Airlines,11,Stormy,On Time
+JetBlue,9,Rainy,Delayed
+United Airlines,2,Snowy,Delayed
+Delta Airlines,11,Stormy,Delayed
+Southwest Airlines,23,Snowy,Delayed
+Delta Airlines,17,Clear,Delayed
+JetBlue,18,Clear,Delayed
+JetBlue,3,Snowy,On Time
+United Airlines,19,Snowy,On Time
+Delta Airlines,13,Snowy,Delayed
+United Airlines,17,Clear,Delayed
+Alaska Airlines,4,Stormy,Delayed
+Southwest Airlines,15,Snowy,On Time
+Southwest Airlines,1,Snowy,On Time
+JetBlue,5,Snowy,On Time
+Alaska Airlines,11,Stormy,Delayed
+Southwest Airlines,11,Stormy,On Time
+Southwest Airlines,23,Snowy,Delayed
+JetBlue,10,Snowy,On Time
+JetBlue,15,Rainy,On Time
+United Airlines,9,Snowy,Delayed
+Southwest Airlines,15,Snowy,Delayed
+JetBlue,10,Clear,Delayed
+United Airlines,3,Stormy,Delayed
+JetBlue,3,Snowy,On Time
+Alaska Airlines,10,Rainy,Delayed
+JetBlue,20,Rainy,On Time
+Alaska Airlines,10,Stormy,On Time
+United Airlines,2,Clear,Delayed
+American Airlines,9,Clear,Delayed
+American Airlines,18,Rainy,On Time
+United Airlines,8,Snowy,On Time
+Southwest Airlines,2,Snowy,Delayed
+American Airlines,19,Clear,On Time
+American Airlines,10,Clear,On Time
+American Airlines,10,Rainy,On Time
+United Airlines,13,Clear,Delayed
+American Airlines,14,Clear,On Time
+Delta Airlines,6,Rainy,On Time
+United Airlines,9,Snowy,On Time
+Delta Airlines,6,Clear,On Time
+Alaska Airlines,10,Stormy,Delayed
+JetBlue,0,Snowy,Delayed
+JetBlue,18,Snowy,On Time
+JetBlue,9,Snowy,Delayed
+United Airlines,23,Snowy,Delayed
+JetBlue,9,Rainy,Delayed
+JetBlue,12,Rainy,On Time
+JetBlue,11,Stormy,On Time
+Alaska Airlines,5,Stormy,Delayed
+Southwest Airlines,18,Stormy,Delayed
+JetBlue,16,Clear,On Time
+JetBlue,14,Stormy,On Time
+Southwest Airlines,22,Snowy,Delayed
+United Airlines,3,Stormy,On Time
+JetBlue,19,Snowy,On Time
+Delta Airlines,1,Clear,Delayed
+United Airlines,21,Snowy,Delayed
+JetBlue,9,Snowy,Delayed
+Southwest Airlines,6,Snowy,Delayed
+American Airlines,17,Clear,On Time
+American Airlines,12,Clear,Delayed
+United Airlines,13,Snowy,Delayed
+United Airlines,15,Rainy,Delayed
+Alaska Airlines,19,Clear,On Time
+JetBlue,6,Stormy,On Time
+Delta Airlines,23,Stormy,On Time
+Delta Airlines,22,Rainy,Delayed
+American Airlines,12,Clear,Delayed
+United Airlines,11,Snowy,Delayed
+Delta Airlines,0,Rainy,Delayed
+Delta Airlines,7,Snowy,On Time
+Southwest Airlines,2,Snowy,Delayed
+Delta Airlines,20,Clear,On Time
+JetBlue,6,Rainy,On Time
+American Airlines,4,Rainy,Delayed
+JetBlue,6,Clear,On Time
+Delta Airlines,15,Stormy,On Time
+United Airlines,16,Stormy,Delayed
+JetBlue,14,Rainy,Delayed
+American Airlines,22,Clear,Delayed
+Southwest Airlines,16,Snowy,Delayed
+United Airlines,5,Rainy,Delayed
+United Airlines,11,Rainy,On Time
+Delta Airlines,23,Stormy,Delayed
+Alaska Airlines,12,Clear,On Time
+Alaska Airlines,3,Clear,On Time
+United Airlines,2,Clear,Delayed
+American Airlines,5,Snowy,On Time
+American Airlines,4,Snowy,On Time
+American Airlines,4,Snowy,Delayed
+JetBlue,16,Rainy,Delayed
+American Airlines,23,Snowy,On Time
+American Airlines,17,Stormy,Delayed
+Southwest Airlines,10,Stormy,On Time
+Southwest Airlines,15,Snowy,Delayed
+Delta Airlines,18,Rainy,Delayed
+Delta Airlines,12,Clear,Delayed
+Southwest Airlines,6,Snowy,Delayed
+American Airlines,0,Snowy,Delayed
+American Airlines,6,Snowy,On Time
+Delta Airlines,0,Rainy,Delayed
+United Airlines,9,Stormy,Delayed
+Alaska Airlines,21,Stormy,On Time
+American Airlines,18,Clear,Delayed
+Delta Airlines,1,Stormy,Delayed
+American Airlines,9,Clear,Delayed
+American Airlines,16,Rainy,Delayed
+JetBlue,3,Stormy,On Time
+Alaska Airlines,3,Rainy,Delayed
+JetBlue,12,Rainy,Delayed
+American Airlines,11,Stormy,Delayed
+Southwest Airlines,13,Rainy,On Time
+Alaska Airlines,4,Rainy,On Time
+JetBlue,7,Stormy,On Time
+Alaska Airlines,19,Clear,Delayed
+United Airlines,4,Clear,On Time
+JetBlue,1,Clear,Delayed
+American Airlines,16,Stormy,Delayed
+American Airlines,16,Clear,On Time
+American Airlines,14,Snowy,Delayed
+Alaska Airlines,8,Snowy,Delayed
+JetBlue,6,Stormy,On Time
+Southwest Airlines,18,Rainy,On Time
+American Airlines,1,Clear,On Time
+JetBlue,16,Rainy,Delayed
+Delta Airlines,1,Snowy,Delayed
+Southwest Airlines,7,Snowy,On Time
+United Airlines,1,Clear,On Time
+JetBlue,10,Clear,Delayed
+United Airlines,23,Clear,On Time
+Delta Airlines,7,Clear,Delayed
+Delta Airlines,16,Rainy,On Time
+JetBlue,4,Snowy,On Time
+Southwest Airlines,8,Stormy,On Time
+American Airlines,13,Stormy,Delayed
+Southwest Airlines,14,Stormy,On Time
+Delta Airlines,14,Stormy,Delayed
+United Airlines,19,Stormy,On Time
+United Airlines,4,Clear,On Time
+American Airlines,0,Clear,On Time
+American Airlines,19,Stormy,On Time
+United Airlines,4,Stormy,Delayed
+Southwest Airlines,18,Snowy,On Time
+JetBlue,3,Clear,Delayed
+Southwest Airlines,9,Snowy,Delayed
+United Airlines,7,Stormy,Delayed
+JetBlue,11,Snowy,Delayed
+Alaska Airlines,16,Snowy,On Time
+American Airlines,14,Stormy,On Time
+American Airlines,22,Rainy,On Time
+Alaska Airlines,12,Stormy,Delayed
+United Airlines,23,Stormy,Delayed
+Alaska Airlines,2,Rainy,On Time
+Southwest Airlines,4,Stormy,On Time
+United Airlines,12,Stormy,Delayed
+United Airlines,18,Snowy,Delayed
+American Airlines,22,Rainy,On Time
+American Airlines,17,Stormy,Delayed
+JetBlue,22,Snowy,On Time
+Alaska Airlines,17,Rainy,On Time
+United Airlines,2,Rainy,On Time
+United Airlines,17,Clear,On Time
+Southwest Airlines,15,Snowy,On Time
+American Airlines,10,Clear,Delayed
+Alaska Airlines,21,Rainy,On Time
+Delta Airlines,0,Stormy,On Time
+Southwest Airlines,20,Stormy,On Time
+Southwest Airlines,7,Stormy,Delayed
+JetBlue,7,Stormy,Delayed
+Southwest Airlines,2,Rainy,Delayed
+Southwest Airlines,5,Stormy,On Time
+Alaska Airlines,12,Rainy,On Time
+Southwest Airlines,7,Rainy,On Time
+Delta Airlines,22,Snowy,On Time
+Southwest Airlines,20,Stormy,Delayed
+JetBlue,19,Snowy,Delayed
+Delta Airlines,20,Stormy,Delayed
+Delta Airlines,5,Rainy,Delayed
+American Airlines,22,Stormy,Delayed
+American Airlines,17,Clear,Delayed
+Southwest Airlines,14,Stormy,Delayed
+American Airlines,3,Rainy,Delayed
+United Airlines,23,Stormy,On Time
+Alaska Airlines,16,Rainy,On Time
+Alaska Airlines,10,Rainy,Delayed
+Alaska Airlines,17,Stormy,On Time
+American Airlines,3,Rainy,On Time
+JetBlue,20,Stormy,On Time
+Southwest Airlines,18,Snowy,Delayed
+JetBlue,22,Clear,Delayed
+Alaska Airlines,14,Stormy,On Time
+United Airlines,13,Stormy,Delayed
+Delta Airlines,5,Snowy,On Time
+JetBlue,6,Snowy,Delayed
+Alaska Airlines,6,Stormy,Delayed
+United Airlines,11,Stormy,Delayed
+Delta Airlines,6,Stormy,On Time
+Delta Airlines,8,Snowy,Delayed
+United Airlines,21,Rainy,On Time
+United Airlines,12,Stormy,On Time
+American Airlines,7,Clear,On Time
+JetBlue,3,Clear,On Time
+Alaska Airlines,20,Stormy,Delayed
+JetBlue,15,Snowy,Delayed
+JetBlue,13,Rainy,On Time
+JetBlue,3,Stormy,Delayed
+Southwest Airlines,0,Clear,On Time
+United Airlines,11,Snowy,On Time
+Alaska Airlines,17,Rainy,On Time
+Alaska Airlines,8,Stormy,Delayed
+Alaska Airlines,15,Clear,On Time
+United Airlines,1,Rainy,On Time
+American Airlines,9,Clear,Delayed
+Delta Airlines,11,Rainy,On Time
+United Airlines,16,Clear,Delayed
+United Airlines,10,Clear,Delayed
+Delta Airlines,21,Snowy,Delayed
+JetBlue,13,Snowy,Delayed
+United Airlines,11,Rainy,On Time
+American Airlines,2,Clear,Delayed
+Alaska Airlines,22,Snowy,On Time
+JetBlue,14,Clear,Delayed
+Alaska Airlines,7,Rainy,On Time
+American Airlines,14,Clear,On Time
+United Airlines,16,Rainy,Delayed
+United Airlines,12,Stormy,On Time
+United Airlines,20,Rainy,Delayed
+United Airlines,0,Rainy,On Time
+American Airlines,0,Rainy,Delayed
+American Airlines,13,Snowy,Delayed
+Alaska Airlines,20,Rainy,On Time
+Southwest Airlines,3,Clear,Delayed
+Southwest Airlines,10,Rainy,On Time
+Alaska Airlines,4,Stormy,Delayed
+Alaska Airlines,15,Stormy,On Time
+Southwest Airlines,3,Snowy,On Time
+United Airlines,21,Rainy,On Time
+Delta Airlines,2,Clear,On Time
+American Airlines,15,Clear,On Time
+Alaska Airlines,7,Rainy,On Time
+American Airlines,2,Stormy,Delayed
+Southwest Airlines,22,Rainy,Delayed
+American Airlines,7,Snowy,Delayed
+Southwest Airlines,23,Rainy,Delayed
+JetBlue,22,Rainy,On Time
+Southwest Airlines,1,Clear,On Time
+Delta Airlines,21,Clear,On Time
+Delta Airlines,19,Stormy,Delayed
+Southwest Airlines,17,Rainy,On Time
+American Airlines,10,Clear,On Time
+JetBlue,7,Stormy,Delayed
+Alaska Airlines,7,Rainy,On Time
+JetBlue,8,Clear,Delayed
+Southwest Airlines,22,Clear,Delayed
+American Airlines,7,Clear,On Time
+United Airlines,20,Rainy,Delayed
+Southwest Airlines,7,Rainy,Delayed
+Alaska Airlines,13,Rainy,Delayed
+Alaska Airlines,9,Stormy,On Time
+Delta Airlines,7,Clear,Delayed
+United Airlines,4,Rainy,On Time
+American Airlines,20,Snowy,Delayed
+United Airlines,8,Snowy,On Time
+United Airlines,5,Stormy,Delayed
+Southwest Airlines,0,Clear,On Time
+JetBlue,14,Clear,Delayed
+JetBlue,17,Rainy,Delayed
+JetBlue,9,Clear,On Time
+American Airlines,1,Stormy,Delayed
+Delta Airlines,9,Rainy,Delayed
+JetBlue,11,Stormy,On Time
+American Airlines,7,Snowy,On Time
+American Airlines,22,Clear,Delayed
+Delta Airlines,5,Stormy,On Time
+United Airlines,22,Snowy,On Time
+Southwest Airlines,17,Snowy,On Time
+Alaska Airlines,10,Rainy,On Time
+Southwest Airlines,21,Rainy,Delayed
+United Airlines,18,Stormy,On Time
+American Airlines,23,Rainy,Delayed
+Southwest Airlines,0,Rainy,Delayed
+Alaska Airlines,5,Stormy,Delayed
+American Airlines,7,Stormy,On Time
+Delta Airlines,22,Rainy,On Time
+Southwest Airlines,7,Rainy,On Time
+United Airlines,17,Stormy,On Time
+Alaska Airlines,2,Stormy,Delayed
+United Airlines,18,Stormy,On Time
+Delta Airlines,9,Clear,On Time
+JetBlue,20,Stormy,Delayed
+JetBlue,15,Stormy,On Time
+JetBlue,21,Rainy,On Time
+Southwest Airlines,10,Clear,Delayed
+JetBlue,22,Stormy,On Time
+United Airlines,20,Clear,On Time
+Alaska Airlines,4,Stormy,Delayed
+American Airlines,8,Rainy,Delayed
+United Airlines,18,Snowy,On Time
+JetBlue,10,Snowy,Delayed
+United Airlines,19,Snowy,On Time
+Delta Airlines,11,Stormy,Delayed
+United Airlines,19,Clear,On Time
+United Airlines,12,Rainy,Delayed
+Delta Airlines,19,Clear,Delayed
+JetBlue,15,Stormy,On Time
+Alaska Airlines,0,Rainy,Delayed
+Alaska Airlines,2,Snowy,On Time
+American Airlines,23,Clear,On Time
+Southwest Airlines,2,Snowy,On Time
+Southwest Airlines,22,Snowy,On Time
+JetBlue,18,Rainy,On Time
+JetBlue,6,Clear,On Time
+Alaska Airlines,14,Stormy,On Time
+United Airlines,5,Rainy,Delayed
+Alaska Airlines,19,Clear,Delayed
+Alaska Airlines,23,Stormy,Delayed
+Southwest Airlines,1,Rainy,On Time
+United Airlines,17,Snowy,On Time
+United Airlines,13,Clear,Delayed
+American Airlines,10,Stormy,On Time
+Alaska Airlines,1,Snowy,Delayed
+JetBlue,8,Snowy,Delayed
+Delta Airlines,22,Stormy,On Time
+Delta Airlines,15,Snowy,Delayed
+JetBlue,0,Clear,On Time
+Alaska Airlines,17,Snowy,Delayed
+Alaska Airlines,5,Clear,Delayed
+Delta Airlines,22,Clear,Delayed
+United Airlines,5,Snowy,On Time
+Alaska Airlines,0,Stormy,Delayed
+Southwest Airlines,11,Stormy,On Time
+Alaska Airlines,6,Clear,On Time
+United Airlines,4,Snowy,Delayed
+JetBlue,20,Stormy,Delayed
+United Airlines,19,Rainy,On Time
+Southwest Airlines,22,Snowy,Delayed
+United Airlines,13,Rainy,Delayed
+United Airlines,12,Snowy,On Time
+Southwest Airlines,12,Rainy,On Time
+Southwest Airlines,18,Rainy,Delayed
+United Airlines,7,Rainy,On Time
+American Airlines,9,Rainy,On Time
+Delta Airlines,21,Stormy,On Time
+American Airlines,2,Clear,Delayed
+United Airlines,8,Stormy,Delayed
+Southwest Airlines,1,Clear,Delayed
+Alaska Airlines,16,Stormy,Delayed
+United Airlines,8,Rainy,On Time
+Alaska Airlines,7,Clear,Delayed
+American Airlines,4,Snowy,On Time
+Delta Airlines,20,Stormy,Delayed
+Southwest Airlines,15,Rainy,On Time
+United Airlines,5,Rainy,On Time
+American Airlines,21,Rainy,Delayed
+Alaska Airlines,18,Clear,On Time
+American Airlines,21,Rainy,On Time
+United Airlines,20,Clear,On Time
+Alaska Airlines,5,Rainy,Delayed
+Alaska Airlines,22,Snowy,On Time
+Alaska Airlines,17,Stormy,Delayed
+United Airlines,23,Rainy,On Time
+JetBlue,13,Snowy,Delayed
+Southwest Airlines,13,Clear,Delayed
+Southwest Airlines,8,Stormy,Delayed
+Alaska Airlines,18,Clear,On Time
+Southwest Airlines,18,Snowy,Delayed
+Southwest Airlines,18,Stormy,On Time
+United Airlines,4,Rainy,Delayed
+United Airlines,8,Snowy,Delayed
+JetBlue,20,Snowy,On Time
+United Airlines,0,Snowy,On Time
+American Airlines,9,Snowy,Delayed
+JetBlue,9,Rainy,On Time
+American Airlines,12,Stormy,Delayed
+JetBlue,13,Snowy,On Time
+JetBlue,2,Stormy,Delayed
+Southwest Airlines,11,Clear,Delayed
+Alaska Airlines,22,Snowy,On Time
+Southwest Airlines,2,Rainy,On Time
+United Airlines,23,Snowy,On Time
+Southwest Airlines,17,Snowy,Delayed
+JetBlue,23,Clear,On Time
+JetBlue,1,Snowy,Delayed
+Delta Airlines,16,Stormy,Delayed
+JetBlue,1,Snowy,On Time
+JetBlue,11,Snowy,Delayed
+Delta Airlines,2,Rainy,Delayed
+Southwest Airlines,5,Snowy,Delayed
+Delta Airlines,4,Snowy,Delayed
+Southwest Airlines,10,Rainy,On Time
+JetBlue,10,Rainy,Delayed
+Southwest Airlines,3,Snowy,On Time
+American Airlines,18,Stormy,Delayed
+United Airlines,21,Stormy,On Time
+United Airlines,15,Stormy,On Time
+Alaska Airlines,19,Stormy,Delayed
+Alaska Airlines,20,Stormy,On Time
+United Airlines,12,Stormy,On Time
+Alaska Airlines,6,Snowy,Delayed
+United Airlines,5,Rainy,Delayed
+Southwest Airlines,2,Rainy,On Time
+Alaska Airlines,4,Rainy,Delayed
+Alaska Airlines,20,Stormy,Delayed
+JetBlue,10,Stormy,Delayed
+United Airlines,8,Stormy,Delayed
+JetBlue,5,Rainy,On Time
+Southwest Airlines,6,Snowy,Delayed
+JetBlue,9,Rainy,On Time
+JetBlue,16,Rainy,Delayed
+Delta Airlines,22,Stormy,Delayed
+JetBlue,17,Stormy,Delayed
+Southwest Airlines,4,Rainy,Delayed
+Alaska Airlines,17,Clear,On Time
+American Airlines,13,Rainy,Delayed
+Southwest Airlines,13,Stormy,Delayed
+Southwest Airlines,8,Clear,On Time
+Southwest Airlines,1,Clear,On Time
+Southwest Airlines,8,Rainy,On Time
+Delta Airlines,8,Snowy,Delayed
+American Airlines,23,Rainy,On Time
+Delta Airlines,18,Rainy,On Time
+JetBlue,13,Rainy,Delayed
+United Airlines,15,Clear,On Time
+American Airlines,19,Rainy,Delayed
+Southwest Airlines,13,Stormy,Delayed
+United Airlines,9,Snowy,On Time
+United Airlines,16,Stormy,Delayed
+JetBlue,22,Stormy,Delayed
+JetBlue,10,Stormy,On Time
+United Airlines,17,Rainy,On Time
+JetBlue,11,Snowy,On Time
+Southwest Airlines,6,Snowy,On Time
+JetBlue,18,Clear,Delayed
+American Airlines,20,Clear,Delayed
+JetBlue,21,Clear,On Time
+Delta Airlines,19,Clear,On Time
+Delta Airlines,5,Snowy,On Time
+Southwest Airlines,20,Stormy,On Time
+Southwest Airlines,21,Snowy,Delayed
+Alaska Airlines,22,Rainy,Delayed
+Delta Airlines,0,Rainy,On Time
+United Airlines,12,Clear,Delayed
+Alaska Airlines,4,Stormy,Delayed
+Delta Airlines,20,Clear,On Time
+Alaska Airlines,1,Clear,Delayed
+Delta Airlines,15,Clear,Delayed
+United Airlines,21,Stormy,On Time
+Southwest Airlines,16,Snowy,Delayed
+United Airlines,18,Clear,On Time
+Delta Airlines,19,Snowy,Delayed
+United Airlines,11,Snowy,Delayed
+JetBlue,9,Snowy,Delayed
+Southwest Airlines,6,Rainy,On Time
+Southwest Airlines,7,Snowy,On Time
+Alaska Airlines,19,Snowy,Delayed
+Delta Airlines,11,Snowy,On Time
+American Airlines,5,Snowy,On Time
+JetBlue,6,Snowy,On Time
+Alaska Airlines,10,Clear,On Time
+Delta Airlines,3,Rainy,Delayed
+United Airlines,5,Snowy,Delayed
+Alaska Airlines,21,Snowy,Delayed
+Delta Airlines,16,Rainy,On Time
+JetBlue,0,Rainy,Delayed
+JetBlue,1,Rainy,Delayed
+Alaska Airlines,15,Rainy,Delayed
+United Airlines,14,Stormy,Delayed
+Southwest Airlines,11,Stormy,On Time
+JetBlue,19,Snowy,On Time
+Delta Airlines,9,Rainy,On Time
+Southwest Airlines,9,Rainy,Delayed
+United Airlines,10,Rainy,Delayed
+United Airlines,2,Clear,Delayed
+JetBlue,6,Snowy,Delayed
+Alaska Airlines,20,Stormy,Delayed
+JetBlue,4,Snowy,On Time
+Alaska Airlines,11,Stormy,Delayed
+Delta Airlines,22,Snowy,Delayed
+United Airlines,23,Rainy,On Time
+Alaska Airlines,21,Snowy,Delayed
+JetBlue,1,Clear,Delayed
+JetBlue,17,Clear,Delayed
+Alaska Airlines,10,Snowy,Delayed
+Alaska Airlines,13,Snowy,Delayed
+JetBlue,7,Stormy,Delayed
+Southwest Airlines,13,Clear,Delayed
+Southwest Airlines,21,Rainy,On Time
+American Airlines,23,Clear,On Time
+Southwest Airlines,18,Snowy,Delayed
+JetBlue,17,Stormy,Delayed
+Delta Airlines,11,Snowy,Delayed
+Delta Airlines,15,Rainy,On Time
+Southwest Airlines,18,Rainy,Delayed
+JetBlue,6,Rainy,Delayed
+Delta Airlines,23,Rainy,Delayed
+Alaska Airlines,2,Snowy,Delayed
+Southwest Airlines,18,Snowy,On Time
+Alaska Airlines,1,Snowy,On Time
+Alaska Airlines,4,Clear,Delayed
+American Airlines,1,Stormy,Delayed
+American Airlines,7,Clear,Delayed
+Delta Airlines,18,Snowy,On Time
+Delta Airlines,1,Clear,On Time
+Delta Airlines,22,Stormy,Delayed
+Alaska Airlines,19,Rainy,On Time
+United Airlines,23,Rainy,On Time
+Delta Airlines,2,Stormy,Delayed
+American Airlines,6,Snowy,On Time
+Delta Airlines,0,Clear,Delayed
+United Airlines,9,Rainy,Delayed
+Delta Airlines,4,Clear,Delayed
+Southwest Airlines,2,Rainy,On Time
+Southwest Airlines,11,Clear,Delayed
+Alaska Airlines,4,Stormy,On Time
+JetBlue,4,Snowy,Delayed
+Alaska Airlines,8,Clear,On Time
+Delta Airlines,20,Stormy,On Time
+American Airlines,6,Clear,Delayed
+Southwest Airlines,8,Clear,On Time
+Alaska Airlines,4,Snowy,On Time
+Alaska Airlines,1,Clear,On Time
+American Airlines,0,Stormy,On Time
+Southwest Airlines,11,Clear,On Time
+United Airlines,5,Clear,On Time
+Southwest Airlines,17,Snowy,On Time
+Southwest Airlines,9,Stormy,On Time
+American Airlines,3,Stormy,Delayed
+American Airlines,0,Rainy,Delayed
+Southwest Airlines,7,Rainy,Delayed
+Alaska Airlines,1,Clear,On Time
+Alaska Airlines,0,Snowy,Delayed
+United Airlines,2,Snowy,On Time
+Delta Airlines,12,Rainy,On Time
+United Airlines,18,Snowy,Delayed
+Southwest Airlines,14,Clear,Delayed
+JetBlue,21,Stormy,On Time
+JetBlue,9,Clear,Delayed
+Delta Airlines,8,Snowy,Delayed
+Alaska Airlines,8,Clear,On Time
+Delta Airlines,18,Stormy,On Time
+American Airlines,19,Clear,Delayed
+JetBlue,6,Snowy,Delayed
+Delta Airlines,22,Stormy,On Time
+Delta Airlines,11,Rainy,On Time
+American Airlines,8,Snowy,Delayed
+American Airlines,6,Rainy,On Time
+United Airlines,2,Snowy,Delayed
+JetBlue,2,Stormy,Delayed
+Southwest Airlines,12,Stormy,Delayed
+Delta Airlines,19,Snowy,Delayed
+American Airlines,20,Rainy,Delayed
+Southwest Airlines,20,Snowy,Delayed
+JetBlue,13,Clear,Delayed
+JetBlue,6,Stormy,Delayed
+JetBlue,14,Snowy,Delayed
+American Airlines,8,Rainy,Delayed
+JetBlue,1,Clear,On Time
+American Airlines,5,Clear,Delayed
+United Airlines,16,Stormy,On Time
+JetBlue,5,Snowy,Delayed
+Delta Airlines,2,Stormy,Delayed
+United Airlines,3,Rainy,On Time
+JetBlue,16,Stormy,Delayed
+Delta Airlines,6,Stormy,On Time
+Delta Airlines,2,Stormy,Delayed
+JetBlue,15,Clear,Delayed
+Delta Airlines,5,Snowy,On Time
+Delta Airlines,17,Stormy,Delayed
+American Airlines,15,Rainy,On Time
+Alaska Airlines,22,Rainy,Delayed
+Alaska Airlines,6,Snowy,On Time
+Alaska Airlines,4,Clear,On Time
+Alaska Airlines,17,Rainy,On Time
+United Airlines,21,Snowy,On Time
+United Airlines,13,Stormy,On Time
+United Airlines,18,Stormy,Delayed
+Alaska Airlines,23,Clear,On Time
+Southwest Airlines,5,Snowy,Delayed
+Delta Airlines,21,Rainy,Delayed
+JetBlue,8,Snowy,On Time
+Southwest Airlines,18,Clear,On Time
+JetBlue,10,Snowy,Delayed
+Alaska Airlines,17,Rainy,On Time
+American Airlines,14,Stormy,Delayed
+Delta Airlines,6,Clear,On Time
+JetBlue,20,Clear,Delayed
+Southwest Airlines,12,Rainy,On Time
+Southwest Airlines,6,Clear,Delayed
+Alaska Airlines,8,Rainy,On Time
+United Airlines,2,Rainy,On Time
+Delta Airlines,22,Rainy,Delayed
+American Airlines,11,Stormy,On Time
+American Airlines,8,Stormy,Delayed
+United Airlines,16,Snowy,On Time
+American Airlines,23,Snowy,On Time
+JetBlue,6,Stormy,On Time
+Alaska Airlines,11,Clear,Delayed
+United Airlines,14,Stormy,Delayed
+American Airlines,11,Rainy,Delayed
+Southwest Airlines,1,Clear,On Time
+Alaska Airlines,10,Rainy,On Time
+JetBlue,0,Snowy,On Time
+Alaska Airlines,4,Snowy,On Time
+Southwest Airlines,19,Stormy,Delayed
+United Airlines,15,Stormy,On Time
+American Airlines,2,Clear,Delayed
+United Airlines,18,Snowy,Delayed
+Southwest Airlines,13,Stormy,On Time
+Southwest Airlines,7,Snowy,Delayed
+Alaska Airlines,16,Snowy,On Time
+JetBlue,23,Clear,On Time
+JetBlue,8,Clear,Delayed
+Delta Airlines,15,Rainy,Delayed
+American Airlines,20,Clear,Delayed
+Delta Airlines,19,Stormy,Delayed
+JetBlue,13,Stormy,Delayed
+Delta Airlines,1,Rainy,On Time
+Southwest Airlines,17,Snowy,Delayed
+United Airlines,20,Clear,On Time
+Alaska Airlines,4,Snowy,On Time
+Southwest Airlines,13,Stormy,Delayed
+Southwest Airlines,23,Stormy,On Time
+Southwest Airlines,6,Stormy,Delayed
+American Airlines,10,Clear,Delayed
+United Airlines,16,Clear,On Time
+Southwest Airlines,13,Snowy,Delayed
+United Airlines,5,Clear,Delayed
+Alaska Airlines,23,Clear,On Time
+American Airlines,8,Rainy,On Time
+American Airlines,19,Rainy,On Time
+Southwest Airlines,4,Rainy,On Time
+Southwest Airlines,19,Stormy,Delayed
+Southwest Airlines,11,Rainy,On Time
+Southwest Airlines,4,Rainy,Delayed
+American Airlines,18,Rainy,On Time
+American Airlines,15,Stormy,On Time
+Alaska Airlines,16,Snowy,On Time
+Delta Airlines,22,Clear,On Time
+Delta Airlines,15,Stormy,On Time
+Southwest Airlines,7,Stormy,On Time
+Alaska Airlines,17,Stormy,Delayed
+United Airlines,6,Stormy,On Time
+JetBlue,11,Rainy,On Time
+Southwest Airlines,9,Stormy,On Time
+Delta Airlines,22,Snowy,Delayed
+JetBlue,17,Snowy,On Time
+Southwest Airlines,16,Stormy,Delayed
+Delta Airlines,23,Snowy,Delayed
+JetBlue,22,Rainy,Delayed
+Alaska Airlines,17,Stormy,Delayed
+JetBlue,7,Rainy,On Time
+American Airlines,15,Clear,Delayed
+Southwest Airlines,22,Snowy,On Time
+Alaska Airlines,6,Snowy,On Time
+Southwest Airlines,3,Snowy,On Time
+JetBlue,9,Clear,Delayed
+JetBlue,10,Rainy,On Time
+Southwest Airlines,15,Clear,On Time
+JetBlue,11,Clear,Delayed
+Alaska Airlines,0,Snowy,Delayed
+American Airlines,10,Snowy,On Time
